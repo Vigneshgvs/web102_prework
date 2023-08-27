@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/ErbfpkQ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -39,11 +39,12 @@ GIF created with Kap ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Nothing. Awesome descriptions of Javascript functions - filter, reduce, ternary! Wow never learned these like this before! Would be really blessed to get learning experience of this course from CodePath.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Vignesh Gunasekaran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -57,6 +58,7 @@ Nothing. Awesome descriptions of Javascript functions - filter, reduce, ternary!
     See the License for the specific language governing permissions and
     limitations under the License.
 
+<!--
 ## Keywords
 
 0. seaworthy
@@ -67,3 +69,4 @@ Nothing. Awesome descriptions of Javascript functions - filter, reduce, ternary!
 5. 74FLANNELclick
 6. toLocaleString<div>1ivy
 7. zoohowCEDAR (submission)
+-->

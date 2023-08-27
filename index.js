@@ -191,7 +191,9 @@ const totalGames = GAMES_JSON.length;
 const unfundedGames = GAMES_JSON.filter((game) => game.pledged < game.goal);
 const numUnfundedGames = unfundedGames.length;
 const displayStr = `
-A total of $${totalRaised} has been raised for ${totalGames} games.
+A total of $${totalRaised.toLocaleString(
+  'en-US'
+)} has been raised for ${totalGames} games.
 Currently, ${
   numUnfundedGames === 1 ? '1 game remains' : `${numUnfundedGames} games remain`
 } unfunded.
