@@ -28,7 +28,7 @@ body {
 }
 
 .stats-container:hover {
-  cursor: pointer;
+  /* cursor: pointer; */
   box-shadow: 0 0 30px lightblue;
 }
 
@@ -84,3 +84,59 @@ button {
   margin: 1%;
   border-radius: 7px;
 }
+
+.selected {
+  box-shadow: 0 0 20px lightblue;
+  background-color: lightblue;
+}
+
+#our-games-btn {
+  margin-left: 55px;
+}
+
+#our-games-btn:hover,
+#unfunded-btn:hover,
+#funded-btn:hover,
+#all-btn:hover {
+  cursor: pointer;
+}
+
+/* Style for the modal */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-content {
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+  position: relative;
+  max-width: 80%;
+  overflow: auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.close-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  color: #333;
+}
+
+/* Additional styles for buttons */
+.selected {
+  background-color: lightblue;
+}
+
+/* Add more styles as needed */

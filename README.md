@@ -1,23 +1,25 @@
-# WEB102 Prework - _Name of App Here_
+# WEB102 Prework - _Sea Monster Crowdfunding_
 
-Submitted by: **Your Name Here**
+Submitted by: **Vignesh Gunasekaran**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] The introduction section explains the background of the company and how many games remain unfunded.
-- [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-- [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-- [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The introduction section explains the background of the company and how many games remain unfunded.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Our-Games in nav bar
+- [x] 3 Filter button colors
+- [x] Modal for each game card
 
 ## Video Walkthrough
 
@@ -27,7 +29,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with Kap ...
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -37,6 +39,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+Nothing. Awesome descriptions of Javascript functions - filter, reduce, ternary! Wow never learned these like this before! Would be really blessed to get learning experience of this course from CodePath.
 
 ## License
 
@@ -56,7 +59,11 @@ Describe any challenges encountered while building the app.
 
 ## Keywords
 
-seaworthy
-OOZEdiveTRAPpine
-6games-container.stats-card15
-11seafoamGAMES_JSON
+0. seaworthy
+1. OOZEdiveTRAPpine
+2. 6games-container.stats-card15
+3. 11seafoamGAMES_JSON
+4. 19187800268BRAIN
+5. 74FLANNELclick
+6. toLocaleString<div>1ivy
+7. zoohowCEDAR (submission)
